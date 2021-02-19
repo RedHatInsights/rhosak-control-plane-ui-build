@@ -1,0 +1,2 @@
+(self.webpackChunkmk_ui_frontend=self.webpackChunkmk_ui_frontend||[]).push([[941],{1941:(n,e,s)=>{"use strict";function r(...n){const e=[],s={}.hasOwnProperty;return n.filter(Boolean).forEach((n=>{const t=typeof n;if("string"===t||"number"===t)e.push(n);else if(Array.isArray(n)&&n.length){const s=r(...n);s&&e.push(s)}else if("object"===t)for(const r in n)s.call(n,r)&&n[r]&&e.push(r)})),e.join(" ")}s.r(e),s.d(e,{css:()=>r})}}]);
+//# sourceMappingURL=941.a6b1b8f686d80687ff80.js.map
