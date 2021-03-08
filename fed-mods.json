@@ -1,11 +1,14 @@
 {
     "kas": {
         "entry": [
-            "/beta/apps/rhosak-control-plane-ui-build/kas.87245e125a58c8c14302.js"
+            "/kasd7bc7883.js"
         ],
         "modules": [
-            "/beta/apps/rhosak-control-plane-ui-build/300.8ca625da5c8a78869f5e.css",
-            "/beta/apps/rhosak-control-plane-ui-build/300.8b08fc0ca8aadea362f2.js"
+            "/8ca625da.css",
+            "/779.4b76ca62.js",
+            "/00ef8c7e.css",
+            "/312.244b7d49.js",
+            "/261.5145e58f.js"
         ]
     }
 }
