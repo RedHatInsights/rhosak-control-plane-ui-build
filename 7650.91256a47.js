@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkas_ui=self.webpackChunkkas_ui||[]).push([[7650],{95075:(s,e,r)=>{r.r(e),r.d(e,{default:()=>l});var a=r(87967),c=r(85893),i=r(217),n=r(83463),d=r(95950);const l=s=>{var{children:e}=s,r=(0,a.__rest)(s,["children"]);return(0,c.jsxs)(n.ModalProvider,{children:[(0,c.jsx)(i.o,Object.assign({},r,{children:e})),(0,c.jsx)(d.A,{})]})}}}]);
+//# sourceMappingURL=7650.91256a47.js.map
